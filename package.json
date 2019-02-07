@@ -1,0 +1,15 @@
+{
+  "name": "kinvey-health-email",
+  "version": "1.1.4",
+  "description": "Post Save Hook for Email, to be used in Kinvey Health demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jai Karve",
+  "license": "ISC",
+  "dependencies": {
+    "kinvey-flex-sdk": "^2.1.0",
+    "nodemailer": "^4.6.5"
+  }
+}
